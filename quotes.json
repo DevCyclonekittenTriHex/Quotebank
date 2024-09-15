@@ -1,0 +1,270 @@
+{
+    "Quotes": {
+        "Quote 1": {
+            "quote": "Kill the pig, cut her throat, bash her in.",
+            "analysis": "It shows the vivacious and dangerous nature / civiliasation vs savagery",
+            "subquote": "Civiliasation vs Savagery + Mob Mentality",
+            "short": "BI",
+            "significance": "3"
+        },
+        "Quote 2": {
+            "quote": "I'm the reason why it's no go?",
+            "analysis": "This is the conclusive evidence of the beast / darkness and why things happen in everyones mind.",
+            "subquote": "Simon + LOTF",
+            "short": "BI",
+            "significance": "2"
+        },
+        "Quote 3": {
+            "quote": "The same simple obediance",
+            "analysis": "Similar to megaphone / part of past  reference to authority.",
+            "subquote": "CP Ralph",
+            "short": "C",
+            "significance": "1"
+        },
+        "Quote 4": {
+            "quote": "Whe must make a fire",
+            "analysis": "fire = survival/saved",
+            "subquote": "CP Ralph",
+            "short": "C",
+            "significance": "1"
+        },
+        "Quote 5": {
+            "quote": "we'll need shelteres all right",
+            "analysis": "Future proofing, good chief.",
+            "subquote": "CP Ralph",
+            "short": "C",
+            "significance": "1"
+        },
+        "Quote 6": {
+            "quote": "You let the fire out",
+            "analysis": "Ralphs utter dissapointment as people didn't do as he said, possibly causing the passing by boat to not see them.",
+            "subquote": "CP Ralph",
+            "short": "C",
+            "significance": "4"
+        },
+        "Quote 7": {
+            "quote": "But to put things straight",
+            "analysis": "What everyone suggested don't get done, this is an issue as they couldve been saved.",
+            "subquote": "CP Ralph",
+            "short": "C",
+            "significance": "2"
+        },
+        "Quote 8": {
+            "quote": "Do you all want to be rescued",
+            "analysis": "General question from Ralph as why people arent acting normal and civiliased",
+            "subquote": "CP Ralph",
+            "short": "C",
+            "significance": "2"
+        },
+        "Quote 9": {
+            "quote": "[not] very good chess player",
+            "analysis": "Ralphs strategy is lacking and at this rate the Antagonist (jack) is going to overpower him.",
+            "subquote": "CP Ralph",
+            "short": "C",
+            "significance": "3"
+        },
+        "Quote 10": {
+            "quote": "Boys armed with sticks",
+            "analysis": "The true nature of what jacks hunters are, confronting him and causing a violent counterattack.",
+            "subquote": "CP Ralph",
+            "short": "C",
+            "significance": "5"
+        },
+        "Quote 11": {
+            "quote": "Who's clever now",
+            "analysis": "A common sentence between Ralph and Jack about their goals with power and why they should be leaders. Power struggle",
+            "subquote": "CP Ralph + Big Idea",
+            "short": "C,BI",
+            "significance": "4"
+        },
+        "Quote 12": {
+            "quote": "Choir! Stand still!",
+            "analysis": "Jack starts off the book with power, so he tries to presume that power over everyone else.",
+            "subquote": "CP Jack",
+            "short": "C",
+            "significance": "3"
+        },
+        "Quote 13": {
+            "quote": "We'd hunt [snakes/beasie] and kill it",
+            "analysis": "Jack trying to appear powerful and help the littluns not be afraid. ",
+            "subquote": "CP Jack",
+            "short": "C",
+            "significance": "2"
+        },
+        "Quote 14": {
+            "quote": "Now the antagonism was audible",
+            "analysis": "Ralphs and Jacks power struggle as they massively dislike eachother.",
+            "subquote": "CP Jack",
+            "short": "C,BI",
+            "significance": "5"
+        },
+        "Quote 15": {
+            "quote": "The mask compelled them",
+            "analysis": "The annomity of the masks causes them to do what they couldn't before",
+            "subquote": "CP Jack + Big Idea",
+            "short": "C,BI",
+            "significance": "4"
+        },
+        "Quote 16": {
+            "quote": "There were lashings of blood",
+            "analysis": "The violent nature of Jacks / Hunters actions as they inhumanely killed a  pig.",
+            "subquote": "CP Jack",
+            "short": "C",
+            "significance": "3"
+        },
+        "Quote 17": {
+            "quote": "Boys armed with sticks",
+            "analysis": "Jacks truth about why they need to have better stuff.",
+            "subquote": "CP Jack",
+            "short": "C",
+            "significance": "2"
+        },
+        "Quote 18": {
+            "quote": "I called It",
+            "analysis": "Jack claiming power and ownership of who called the assembly",
+            "subquote": "CP Jack + Big Idea",
+            "short": "C,BI",
+            "significance": "4"
+        },
+        "Quote 19": {
+            "quote": "[not] part of ralphs lot",
+            "analysis": "Jack leaves Ralphs tribe so he can become powerful and claim everyone to join his through bribery.",
+            "subquote": "CP Jack",
+            "short": "C",
+            "significance": "3"
+        },
+        "Quote 20": {
+            "quote": "Wants to join my tribe",
+            "analysis": "Jack offering for everyone to join his tribe.",
+            "subquote": "CP Jack",
+            "short": "C",
+            "significance": "3"
+        },
+        "Quote 21": {
+            "quote": "You're no good at a job like this",
+            "analysis": "Piggy not being good at anything due to ass-mar, weight and glasses.",
+            "subquote": "CP Piggy",
+            "short": "C",
+            "significance": "2"
+        },
+        "Quote 22": {
+            "quote": "Jus' blurs, that's all. ",
+            "analysis": "When the glasses get taken, piggy is blinded. Showing how they all go crazy when piggy cant see clearly, cant point out the downsides with their civiliasation.",
+            "subquote": "CP Piggy + Big Idea",
+            "short": "C,BI",
+            "significance": "5"
+        },
+        "Quote 23": {
+            "quote": "What can piggy do with one eye.",
+            "analysis": "Truth",
+            "subquote": "CP Piggy",
+            "short": "C",
+            "significance": "1"
+        },
+        "Quote 24": {
+            "quote": "To make sure nothing happens",
+            "analysis": "Piggy and Ralph go to Jacks party to make sure nothing goes wrong.",
+            "subquote": "CP Piggy",
+            "short": "C",
+            "significance": "4"
+        },
+        "Quote 25": {
+            "quote": "Saying nothing but nodding",
+            "analysis": "Emphasis on his character type",
+            "subquote": "CP Simon",
+            "short": "C",
+            "significance": "2"
+        },
+        "Quote 26": {
+            "quote": "skinny, vivid little boy",
+            "analysis": "Characterization on who simon is",
+            "subquote": "CP Simon",
+            "short": "C",
+            "significance": "3"
+        },
+        "Quote 27": {
+            "quote": "You're chief, you tell em off",
+            "analysis": "Simon being the subordinate telling Ralph to do what everyone wants him to do.",
+            "subquote": "CP  Simon",
+            "short": "C",
+            "significance": "3"
+        },
+        "Quote 28": {
+            "quote": "Screamed,struck,bit,tore.",
+            "analysis": "Words when simon is being killed.",
+            "subquote": "CP Simon + Big Idea",
+            "short": "C,BI",
+            "significance": "5"
+        },
+        "Quote 29": {
+            "quote": "About a dead man on the hill",
+            "analysis": "Simon discovering the truth of what the beast is.",
+            "subquote": "CP Simon",
+            "short": "C",
+            "significance": "4"
+        },
+        "Quote 30": {
+            "quote": "protection of parents and school and policemen and the law.",
+            "analysis": "Roger (at this current point in time) does not want to harm anyone due to fear of legal problems that may arise.",
+            "subquote": "Roger + Civiliasation vs Savagery",
+            "short": "OC,BI",
+            "significance": "5"
+        },
+        "Quote 31": {
+            "quote": "Ralph wept for the end of innocence.",
+            "analysis": "Ralph views all his non innocent actions and realizes everything he has done may not allways be moral.",
+            "subquote": "Ralph +  Poster quote",
+            "short": "C,PQ",
+            "significance": "5"
+        },
+        "Quote 32": {
+            "quote": "exploded into a thousand white fragments and ceased to exist",
+            "analysis": "The full destruction of the motif conch, and the destruction of Democracy and peace as a whole.",
+            "subquote": "Conch + Motif",
+            "short": "M",
+            "significance": "5"
+        },
+        "Quote 33": {
+            "quote": "His specs -- use them as burning glasses",
+            "analysis": "A strategic way to light a fire and create a signal fire (M)",
+            "subquote": "Specs + Motif",
+            "short": "M",
+            "significance": "3"
+        },
+        "Quote 34": {
+            "quote": "The beast was harmless and horrible; and the news must reach the others as soon as possible",
+            "analysis": "This is showing that once simon  retrieves knowledge on what the beast is. The illusion of fear should vanish, but he is silenced before anyone else can learn.",
+            "subquote": "Beast + Motif",
+            "short": "M",
+            "significance": "5"
+        },
+        "Quote 35": {
+            "quote": "This head is for the beast. It's a gift.",
+            "analysis": "Creation of lord of the flies.",
+            "subquote": "LOTF + Motif",
+            "short": "M",
+            "significance": "2"
+        },
+        "Quote 36": {
+            "quote": "Aren't you afraid of my? There isnt anyone to help you. Only me. And I'm the Beast.",
+            "analysis": "Simons inner picture/ hallucinations of what the Lord of the Flies is.",
+            "subquote": "LOTF + Motif",
+            "short": "M",
+            "significance": "5"
+        },
+        "Quote 37": {
+            "quote": "Memory of the dance that none of them had attended shook all four boys convulsively",
+            "analysis": "They mentally seclude their thoughts from the danger.",
+            "subquote": "Big Idea + Motif",
+            "short": "BI",
+            "significance": "3"
+        },
+        "Quote 38": {
+            "quote": "\u2026 the mask was a thing on its own, behind which Jack hid, liberated from shame and self-consciousness.",
+            "analysis": "Just tru",
+            "subquote": "Motif + CP Jack",
+            "short": "C",
+            "significance": "5"
+        }
+    }
+}
