@@ -38,32 +38,45 @@ end = True
 while end:
     t = input(">>> ")
     print("\n********************")
+    it=0
     if(t=="end"):
         end=False
         print("EXIT")
     for i in range(len(lines)):
         ind = GetIndex(lines[i])
         if(ind ==t):
-            print(f"INDEX: {i}")
+            print(f"INDEX: {i+1}")
             ReadIndex(lines[i])
-            print("")   
+            print("")
+            it+=1
     for i in range(len(lines)):
         ind = GetShort(lines[i]).split(" + ")
         for i2 in range(len(ind)):
 
             if(ind[i2] ==t):
-                print(f"INDEX: {i}")
+                print(f"INDEX: {i+1}")
                 ReadIndex(lines[i])
                 print("")
-                
+                it+=1
+    
+    try:
+        for i in range(len(lines)):
+            if(i+1==int(t)):
+                print(f"INDEX: {i+1}")
+                ReadIndex(lines[i])
+                print("")
+                it+=1
+    except ValueError:
+        pass
     if(t=="*"):
         for i in range(len(lines)):
             ReadIndex(lines[i])
             print("")
+            it+=1
     if(t=="r"):
         file=open("quotes.txt","r")
         lines = file.read().split("\n")
         os.system('cls')
 
-    
+    print(f"\nFound {it} Quotes from target command '{t}'")
 time.sleep(5)
